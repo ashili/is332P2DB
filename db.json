@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Install React",
+      "type": "task",
+      "column": "done",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 2,
+      "title": "Setup GitHub",
+      "type": "task",
+      "column": "review",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 3,
+      "title": "Invite Collaborators",
+      "type": "task",
+      "column": "done",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 4,
+      "title": "Install Dependencies",
+      "type": "task",
+      "column": "in-progress",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 5,
+      "title": "Create App Component",
+      "type": "feature",
+      "column": "review",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 6,
+      "title": "Plan Component Diagram",
+      "type": "task",
+      "column": "review",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 7,
+      "title": "Create Grid View",
+      "type": "feature",
+      "column": "in-progress",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 8,
+      "title": "Create List View",
+      "type": "feature",
+      "column": "todo",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 9,
+      "title": "Create Add Form",
+      "type": "feature",
+      "column": "todo",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    },
+    {
+      "id": 10,
+      "title": "App Crashes! :(",
+      "type": "bug",
+      "column": "done",
+      "description": "install the latest version of react",
+      "author": "Anis"
+    }
+  ]
+}
