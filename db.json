@@ -28,7 +28,7 @@
       "id": 4,
       "title": "Install Dependencies",
       "type": "task",
-      "column": "in-progress",
+      "column": "wip",
       "description": "install the latest version of react",
       "author": "Anis"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "title": "Create Grid View",
       "type": "feature",
-      "column": "in-progress",
+      "column": "wip",
       "description": "install the latest version of react",
       "author": "Anis"
     },
