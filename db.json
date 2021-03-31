@@ -6,7 +6,7 @@
       "type": "task",
       "column": "done",
       "description": "install the latest version of react",
-      "author": "Anis"
+      "author": "John"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "type": "task",
       "column": "done",
       "description": "install the latest version of react",
-      "author": "Anis"
+      "author": "John"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "type": "feature",
       "column": "wip",
       "description": "install the latest version of react",
-      "author": "Anis"
+      "author": "Ron"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "type": "feature",
       "column": "todo",
       "description": "install the latest version of react",
-      "author": "Anis"
+      "author": "Ron"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "type": "bug",
       "column": "done",
       "description": "install the latest version of react",
-      "author": "Anis"
+      "author": "Janice"
     }
   ]
 }
