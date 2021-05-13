@@ -80,5 +80,42 @@
       "description": "install the latest version of react",
       "author": "Janice"
     }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "type": "checking",
+      "name": "John Smith",
+      "amount": 1237.95,
+      "last_transaction": "deposit of  $60.00"
+    },
+    {
+      "id": 2,
+      "type": "checking",
+      "name": "John Smith",
+      "amount": 200.95,
+      "last_transaction": "deposited $123.50"
+    },
+    {
+      "id": 3,
+      "type": "checking",
+      "name": "Marta Stewart",
+      "amount": 989.92,
+      "last_transaction": "deposit of  $100.00"
+    },
+    {
+      "id": 4,
+      "type": "saving",
+      "name": "John Smith",
+      "amount": 1407.95,
+      "last_transaction": "deposit of  $123.50"
+    }
+    ,  {
+      "id": 5,
+      "type": "checking",
+      "name": "Anis Shili",
+      "amount": 500.50,
+      "last_transaction": "withdrawal of $123.50"
+    }
   ]
 }
